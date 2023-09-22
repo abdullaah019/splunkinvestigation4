@@ -19,7 +19,10 @@ Lab) Splunk Investigation 4 Solution<br />
 
 <h2>Program walk-through </h2>
 
-
+- <b>Splunk Investigation 4 </b>
+  - [Certification of completion](https://elearning.securityblue.team/public/lab-certificate/c1ba3e55-c95b-43b7-8e5e-9c30254bb284)
+ 
+    
 Question 1 - Click on Dashboards and go to Splunk Investigation 4. How many Suricata alerts are there, and how many Fortigate alerts are there?
 
  ![image](https://github.com/abdullaah019/splunkinvestigation4/assets/139023222/694d6d69-29ac-4f97-8421-59b700c826b8)
